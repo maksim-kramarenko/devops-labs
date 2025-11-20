@@ -1,0 +1,6 @@
+ssh
+cron
+systemd-logind
+systemd-journald
+NetworkManager
+systemd-journald.service
